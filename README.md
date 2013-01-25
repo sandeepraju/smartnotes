@@ -2,7 +2,7 @@
 
 ## About
 
-SmartNotes is a smart note taking web application written using using Flask, MongoDB, HTML5, CSS3 & jQuery
+SmartNotes is a smart note taking web application written using using Flask, MongoDB, HTML5, CSS3 & jQuery for the 'Algorithms of the Intelligent Web' taken in 7th Semester in PESIT.
 
 ## Dependencies
 
